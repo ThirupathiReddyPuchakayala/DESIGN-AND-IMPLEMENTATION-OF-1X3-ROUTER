@@ -5,7 +5,8 @@ It contains RTL Implementation of a basic Router1x3 (Single Ingress, 3 Egress Po
 It is designed accepts data packets on a single 8-bit port and routes them to one of the three output ports.
 
 **Router 1x3 Block Diagram:**
-![Alt text](./router.png?raw=true)
+![image](https://github.com/user-attachments/assets/d53d4cd9-902d-4a79-8db6-d024270bb7cf)
+
 
 **Functionality:**
 1. Input Register:
