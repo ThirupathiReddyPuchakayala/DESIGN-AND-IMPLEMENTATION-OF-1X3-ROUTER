@@ -1,6 +1,6 @@
 # DESIGN AND IMPLEMENTATION OF 1X3 ROUTER
 
-This RTL Design of the Project was completed in 2017 and verification testbench was added later in 2019.
+This RTL Design of the Project was completed and verified using Testbench Code.
 It contains RTL Implementation of a basic Router1x3 (Single Ingress, 3 Egress Ports).
 It is designed accepts data packets on a single 8-bit port and routes them to one of the three output ports.
 
@@ -23,5 +23,4 @@ Steps covered during the project:
   1. Designed a the block level structure for the Router.
   2. Implemented the RTL Design using Verilog HDL and verified using individual verilog testbenches.
   3. Synthesized and Implemented the design to generate a bit file and tested on FPGA.
-  4. Developed the class based verification environment and verified the 1x3 Router RTL model in system verilog using UVM Methodology.
-  5. Generated functional and code coverage for the RTL verification sign-off.# DESIGN-OF-3X1-ROUTER
+  4. Generated functional and code coverage for the RTL verification sign-off.# DESIGN-OF-3X1-ROUTER
