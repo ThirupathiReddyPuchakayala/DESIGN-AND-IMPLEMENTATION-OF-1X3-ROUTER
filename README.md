@@ -1,4 +1,4 @@
-# Design and Implementation of 1x3 Router
+# DESIGN AND IMPLEMENTATION OF 1X3 ROUTER
 
 This RTL Design of the Project was completed in 2017 and verification testbench was added later in 2019.
 It contains RTL Implementation of a basic Router1x3 (Single Ingress, 3 Egress Ports).
